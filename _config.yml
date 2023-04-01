@@ -40,10 +40,6 @@ event:
   date:        "13-14 October 2023"
   location:    "Calgary, AB, Canada"
 
-  trust_badge:
-    year:   "2023"  # season year
-    region: "na"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
